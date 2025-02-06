@@ -1,0 +1,18 @@
+2025-02-06T02:27:43.567Z info: Server is running on port 3001
+2025-02-06T02:27:52.261Z info: POST /posts
+2025-02-06T02:28:54.116Z info: GET /posts
+2025-02-06T02:29:49.002Z info: Server is running on port 3001
+2025-02-06T02:29:56.943Z info: POST /posts
+2025-02-06T02:31:04.762Z info: POST /posts
+2025-02-06T02:31:21.281Z info: POST /posts
+2025-02-06T02:32:18.763Z info: GET /posts
+2025-02-06T02:32:38.722Z info: DELETE /posts/1
+2025-02-06T02:32:51.799Z info: PUT /posts/1
+2025-02-06T02:32:58.020Z info: POST /auth/login
+2025-02-06T02:33:09.257Z info: POST /posts
+2025-02-06T02:34:39.820Z info: POST /posts
+2025-02-06T02:36:03.652Z info: Server is running on port 3001
+2025-02-06T02:36:08.742Z info: POST /posts
+2025-02-06T02:37:11.471Z info: Server is running on port 3001
+2025-02-06T02:37:14.568Z info: POST /posts
+2025-02-06T02:39:15.171Z info: Server is running on port 3001
